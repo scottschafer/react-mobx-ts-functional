@@ -16,7 +16,7 @@
     "mobx-react": "^6.1.4",
     "mobx-react-lite": "^1.5.0",
     "mobx-react-router": "^4.0.7",
-    "npm": "^6.12.0",
+    "npm": "^6.14.6",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-hot-loader": "^4.12.15",
